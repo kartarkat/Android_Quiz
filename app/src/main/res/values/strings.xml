@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Android Quiz</string>
+
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+
+    <string name="correct_toast">Correct Answer \ngo to next question</string>
+    <string name="incorrect_toast">Incorrect Answer \ngo to next question</string>
+
+    <string name="next_button">Next</string>
+    <string name="prev_button">PREV</string>
+
+
+//questions
+
+    <string name="question_1">1.Android is a mobile os developed by Google.</string>
+    <string name="question_2">2.Android is based on the open source os Linux.</string>
+    <string name="question_3">3.The word Android refers only to a male robot.</string>
+    <string name="question_4">4.The first Android prototype looked a lot like a apple.</string>
+    <string name="question_5">5.Android was first created as an os for digital cameras.</string>
+    <string name="question_6">6.Android controls 88% of the world smartphone market.</string>
+    <string name="question_7">7.Android is so expensive when its is developed.</string>
+    <string name="question_8">8.There is a Android running device in space!</string>
+    <string name="question_9">9.Android is Andy Rubin who is the co-creator of Android.</string>
+    <string name="question_10">10.Android was developed in 2001 by Android Inc</string>
+
+
+
+</resources>
